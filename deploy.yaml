@@ -1,0 +1,4 @@
+production:
+  bucket: 'zack.is'
+  root: ''
+  files: '*.html,**/.html'
