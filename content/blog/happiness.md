@@ -2,6 +2,7 @@
 path: happiness
 date: 2016-04-30T05:00:00.000Z
 title: Happiness
+description: "On Happiness"
 ---
 I don't think most people reach a specific day when they can say, I Am Happy. It's always complicated, life is always bittersweet. But you can get happier.
 

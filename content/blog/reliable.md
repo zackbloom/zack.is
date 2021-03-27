@@ -2,6 +2,7 @@
 path: reliable
 date: 2016-03-30T05:00:00.000Z
 title: Reliable
+description: "On reliability"
 ---
 When a baby is removed from his or her mothers womb by a surgeon, the child springs to life. After nine months living on stolen oxygen, he or she starts breathing the moment air strikes.
 

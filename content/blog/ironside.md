@@ -2,6 +2,7 @@
 path: ironside
 date: 2016-03-15T05:00:00.000Z
 title: Ironside
+description: "A story"
 ---
 This was Carettei’s first month, she was still adjusting. A tough day in homicide is like the flu, it hits the young and the old the hardest. Seeing death every day is not how most of us live. In Ironside’s experience, the adaptation takes three cases.
 

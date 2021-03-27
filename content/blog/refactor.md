@@ -2,6 +2,7 @@
 path: refactor
 date: 2016-04-30T05:00:00.000Z
 title: Refactor
+description: "On refactoring"
 ---
 If the classic programming book Code Complete had just one lesson, it’d be that great code is not born in the writing, but in the re-writing. He calls it refactoring, I call it ‘fixing shit’.
 
